@@ -1,4 +1,4 @@
-import { MenuItem, SocialChannels } from "."
+import { MenuItem, SocialChannels } from "../models"
 
 export interface SiteMetadata {
   site: {

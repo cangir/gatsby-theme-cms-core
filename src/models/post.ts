@@ -1,4 +1,4 @@
-import { Frontmatter } from "."
+import { Frontmatter } from "../models"
 
 export interface Post {
   frontmatter: Frontmatter
